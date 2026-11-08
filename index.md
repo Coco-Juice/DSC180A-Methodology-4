@@ -1,7 +1,9 @@
-# Tony Bai (zhbai@ucsd.edu)
+# DSC 180A Methodology Assignment 4
 
-## D21 Empirical Study of LLM and Coding Agent Best Practices
-## Mentors: Armin Schwartzmann and Justin Eldridge
+## Tony Bai (zhbai@ucsd.edu)
+
+### D21 Empirical Study of LLM and Coding Agent Best Practices
+### Mentors: Armin Schwartzmann and Justin Eldridge
 
 **1. What is the most interesting topic covered in your domain this quarter?**
 
